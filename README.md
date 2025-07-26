@@ -3,6 +3,12 @@
 ## Introduction
 This report presents the findings from an Exploratory Data Analysis (EDA) conducted on the "Global YouTube Statistics" dataset. The dataset contains information about YouTube channels, including their rank, subscriber count, video views, category, country, and various metrics related to earnings, engagement, and demographics. The goal of this analysis is to uncover key insights into the characteristics of top YouTube channels, their performance metrics, and relationships between variables.
 
+
+![image alt](https://github.com/Raka-Deb/Youtube-Analysis/blob/ce7b1095cfeccd4decb8824a69b8b1721b829b1d/youtube-logo.png.webp)
+
+
+
+
 The dataset was analyzed using Python with libraries such as `pandas`, `matplotlib`, and `seaborn`. The analysis includes data quality checks, descriptive statistics, and visualizations to explore trends and patterns.
 
 ---
